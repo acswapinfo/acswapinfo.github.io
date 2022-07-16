@@ -7,6 +7,30 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.svg"
+		},
+		{
+				"chainId": 137,
+				"address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
+				"name": "MIM",
+				"symbol": "MIM",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x49a0400587A7F65072c87c4910449fDcC5c47242.webp"
+		},
+		{
+				"chainId": 137,
+				"address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+				"name": "SUSHI",
+				"symbol": "SUSHI",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a.jpg"
+		},
+		{
+				"chainId": 137,
+				"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+				"name": "STG",
+				"symbol": "STG",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.webp"
 		}
 	],
 	"all": [
@@ -673,6 +697,30 @@
 			"decimals": 18,
 			"chainId": 137,
 			"logoURI": "https://acswapinfo.github.io/tokens/polygon/0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7.png"
+		},
+		{
+				"chainId": 137,
+				"address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
+				"name": "MIM",
+				"symbol": "MIM",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x49a0400587A7F65072c87c4910449fDcC5c47242.webp"
+		},
+		{
+				"chainId": 137,
+				"address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+				"name": "SUSHI",
+				"symbol": "SUSHI",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a.jpg"
+		},
+		{
+				"chainId": 137,
+				"address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+				"name": "STG",
+				"symbol": "STG",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/polygon/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.webp"
 		},
 		{
 			"name": "Gains Network",
