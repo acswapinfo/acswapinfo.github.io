@@ -7,6 +7,14 @@
 			"symbol": "OKT",
 			"decimals": 18,
 			"logoURI": "https://acswapinfo.github.io/tokens/okex/0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15.png"
+		},
+		{
+    "name": "Tether USD",
+    "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://acswapinfo.github.io/tokens/okex/0x382bb369d343125bfb2117af9c149795c6c65c50.png",
+    "symbol": "USDT",
 		}
 	],
 	"all": [
@@ -241,6 +249,30 @@
 			"symbol": "SAMU",
 			"decimals": 18,
 			"logoURI": "https://acswapinfo.github.io/tokens/okex/0x8b9415ddb643830281a2d1e389d8e024c7d2edef.png"
+		},
+		{
+				"chainId": 66,
+				"address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
+				"name": "OKB",
+				"symbol": "OKB",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/okex/0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2.png"
+		},
+		{
+				"chainId": 66,
+				"address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+				"name": "BTCK",
+				"symbol": "BTCK",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/okex/0x54e4622dc504176b3bb432dccaf504569699a7ff.png"
+		},
+		{
+				"chainId": 66,
+				"address": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
+				"name": "DOTK",
+				"symbol": "DOTK",
+				"decimals": 18,
+				"logoURI": "https://acswapinfo.github.io/tokens/okex/0xabc732f6f69a519f6d508434481376b6221eb7d5.png"
 		}
 	]
 }
