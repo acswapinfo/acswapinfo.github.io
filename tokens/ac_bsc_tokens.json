@@ -76,6 +76,13 @@
 			"logoURI": "https://acswapinfo.github.io/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png",
 			"name": "USD Coin",
 			"symbol": "USDC"
+		},
+		{
+			"address": "0x6596D4514CF2B5e5d76ca69ebe20276EF1d238e8",
+			"decimals": 18,
+			"logoURI": "https://acswapinfo.github.io/tokens/bsc/0x6596D4514CF2B5e5d76ca69ebe20276EF1d238e8.jpg",
+			"name": "Aladdin Token",
+			"symbol": "ALD"
 		}
 	],
 	"all": [
@@ -148,6 +155,13 @@
 			"name": "Bunny Token",
 			"symbol": "BUNNY",
 			"logoURI": "https://acswapinfo.github.io/tokens/bsc/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
+		},
+		{
+			"address": "0x6596D4514CF2B5e5d76ca69ebe20276EF1d238e8",
+			"decimals": 18,
+			"logoURI": "https://acswapinfo.github.io/tokens/bsc/0x6596D4514CF2B5e5d76ca69ebe20276EF1d238e8.jpg",
+			"name": "Aladdin Token",
+			"symbol": "ALD"
 		},
 		{
 			"address": "0xd44fd09d74cd13838f137b590497595d6b3feea4",
